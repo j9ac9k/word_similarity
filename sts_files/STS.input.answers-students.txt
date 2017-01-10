@@ -1,0 +1,25 @@
+the path is completed by the voltage meter	terminal 2 is not separated from the negative battery terminal
+it is connected to the batteries positive terminal	terminal 1 is connected to the negative battery terminal
+Because terminal 1 was hooked u to the positive terminal which is automatically 1.5 V	Terminal 1 and the positive terminal are not connected
+because of the gap	Terminals 1, 2 and 3 are separated from the positive battery terminal by a gap
+that the battery has created a short circut and is dangerous	there is a short circuit
+the battery is not in the closed path	The battery in 4 is not in a closed path
+Terminal 2 had a 0.00 V.	Terminal 3 and the positive terminal are not connected
+they are contained in the same closed path	B and C are in the same path
+there was no gap between the positive battery terminal and terminal 1 and terminal 2.	Terminals 1 and 2 are in the same electrical state
+a closed path is required	the circuit has a closed path
+The electrical state is broken.	A non-zero voltage means that the terminals are not connected.
+The positive battery terminal is separated by a gap from terminal 2.	There is no gap between terminals 1 and 2
+There is no gap, same electrical state.	Terminal 4 and the positive terminal are not separated by the gap
+because only one of the bulb terminals is bad.	Terminals 4, 5 and 6 are connected to the positive battery terminal
+bulb a and bulb c still had a complete path to the battery	Bulbs A and C are still contained in closed paths with the battery
+Terminal 1 is connected tot he positive terminal.	terminal 1 is connected to the negative battery terminal
+The electrical state for the bulb terminal and the battery terminal will have a charge of 0 if connected so if the charge is anything that isn"t 0 V, there is a gap at that bulb	A non-zero voltage means that there is a gap
+The have the same electrical states	The terminals are in the same state.
+Terminal 1 and terminal 2 are connected to each other.	Terminals 1 and 2 are connected
+it was still connected to the battery	Bulb A is still contained in a closed path with the battery.
+the electrical state will be different in the gap	Measuring voltage indicates the place where the electrical state changes due to a gap.
+Bulb C had an open path with the battery	Bulb C was no longer in a closed path with the battery
+Because when the voltage goes from 1.5 to 0.0 you can locate the gap.	A non-zero voltage means that there is a gap
+Where there is a difference in electrical state, that is where the gap in the connection is.	Measuring voltage indicates the place where the electrical state changes due to a gap.
+the bulb terminal has no gap and the bulb will light	There is a gap.
